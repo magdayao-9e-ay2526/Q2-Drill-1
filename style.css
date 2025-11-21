@@ -1,0 +1,19 @@
+body {
+    background-image: url(texture1.jpg);
+}
+
+.hero-text {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(174, 255, 252);
+    text-align: center;
+}
+
+.container {
+    border: 3px solid;
+    background-color: antiquewhite; 
+
+}
+
+h4 {
+    padding: 10px;
+}
